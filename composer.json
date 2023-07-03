@@ -1,0 +1,26 @@
+{
+    "name": "lopezsoft/verification-digit",
+    "description": "Crea el digito de verificación de un número de documento en colombia",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "support": {
+        "issues": "https://github.com/lopezsoft/verification-digit.git/issues",
+        "source": "https://github.com/lopezsoft/verification-digit.git"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lopezsoft\\VerificationDigit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lewis Lopez Gomez",
+            "email": "lopezsoft.com@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
