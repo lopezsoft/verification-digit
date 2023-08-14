@@ -3,7 +3,7 @@
     "description": "Crea el digito de verificación de un número de documento en colombia",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "support": {
         "issues": "https://github.com/lopezsoft/verification-digit.git/issues",
         "source": "https://github.com/lopezsoft/verification-digit.git"
